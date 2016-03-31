@@ -22,6 +22,10 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
 
     /**
+     *测试的地方
+     */
+
+    /**
      * The {@link android.support.v4.view.PagerAdapter} that will provide
      * fragments for each of the sections. We use a
      * {@link FragmentPagerAdapter} derivative, which will keep every
